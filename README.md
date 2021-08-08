@@ -5,8 +5,7 @@
 
 <h3>Skills</h3>
 
-**Data & Application**
-
+**Data & Application** <br>
     ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
     ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -23,8 +22,7 @@
     ![VBA](https://img.shields.io/badge/-VBA-333333?style=flat&logo=VBA&logoColor=007396)
     ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI&logoColor=007396)
 
-**DevOps**
-
+**DevOps** <br>
     ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
     ![BitBucket](https://img.shields.io/badge/-bitbucket-333333?style=flat&logo=bitbucket)
@@ -32,8 +30,7 @@
     ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)
     ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=Amazon%20AWS)
 
-**Development Tools**
-
+**Development Tools** <br>
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
     ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
     ![IntelliJ IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij%20IDEA&logoColor=007ACC)
@@ -44,7 +41,7 @@
 <br>
 
 <a href="https://github.com/guimei1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimei1&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimei1&theme=gotham&show_icons=true" />
 </a>
 
 <h3>Social:</h3>
